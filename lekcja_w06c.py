@@ -1,0 +1,5 @@
+print("Podaj a:")
+a = int(input())
+print("Podaj b:")
+b = int(input())
+print("A") if a > b else print("B")
